@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "no of plates": 6,
+        "price_for_one_plate": 2,
+        "discount": 1
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "no of plates": 6,
+        "price_for_one_plate": 10,
+        "discount": 1
+    },
+    {
+        "id": 3,
+        "name": "Fries",
+        "no of plates": 8,
+        "price_for_one_plate": 100,
+        "discount": 10
+    }
+]
